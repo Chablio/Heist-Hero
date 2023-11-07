@@ -32,6 +32,7 @@ public class CameraMove : MonoBehaviour
     {
         // We do not move right on top of target, but to an offset position
         target = follow.position + offset;
+        Debug.Log(target);
 
         // Calculate speed based on distance to target - this makes the camera
         // stop smoothly when approaching its target position.
