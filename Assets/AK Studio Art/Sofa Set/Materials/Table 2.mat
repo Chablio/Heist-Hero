@@ -9,7 +9,7 @@ Material:
   m_PrefabAsset: {fileID: 0}
   m_Name: Table 2
   m_Shader: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
-  m_Parent: {fileID: 2100000, guid: 1b31220c4227f4742a73531cad9e7ec0, type: 2}
+  m_Parent: {fileID: 2100000, guid: 32fbe70efb3d5204ca4ddb5a20ba750e, type: 2}
   m_ModifiedSerializedProperties: 16
   m_ValidKeywords:
   - _METALLICGLOSSMAP
